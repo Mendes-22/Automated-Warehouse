@@ -30,8 +30,8 @@ The software is organized into modular folders to ensure reusability and clean c
 
 #### 📤 Storage Cycle (Load)
 The system identifies the box, applies the weight/height-safety rule, and selects the **nearest optimal slot** to minimize travel time.
-*![Load Cycle](link-para-o-teu-gif-load.gif)*
+*![Load Cycle](Media/Load_GIF.gif)*
 
 #### 📥 Retrieval Cycle (Unload)
 Triggered by an HMI request, the WMS identifies the pallet in the database and executes the fastest retrieval sequence to the exit conveyor.
-*![Unload Cycle](link-para-o-teu-gif-unload.gif)*
+*![Unload Cycle](Media/Unload_GIF.gif)*
